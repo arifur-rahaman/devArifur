@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Arifur Rahaman
 #### Web Developer
-![Web Developer](https://unsplash.com/photos/black-acer-laptop-computer-USp4Gzr-Hdw)
+
 
 Dedicated React developer with years of experience building dynamic web applications. Proficient in crafting user-friendly interfaces, managing complex state, and optimizing performance. Passionate about creating exceptional digital experiences and eager to contribute to innovative projects.
 
 Skills:  REACT / Next JS / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+
 - 🌱 I’m currently learning JavaScript | React 
 - 👯 I’m looking to collaborate on GitHub 
 
