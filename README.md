@@ -19,7 +19,7 @@ Skills:  REACT / Next JS / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devArifur&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/devArifur)  
+  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=devArifur)  
 
